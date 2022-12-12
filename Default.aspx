@@ -2,41 +2,25 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+
+
+   <div class="jumbotron">
+        <h1 style="text-align: center">&quot;<em>Bienvenidos</em>&quot;&nbsp;</h1>
+        <p style="text-align: center">&nbsp;</p>
+        <p style="text-align: center">
+            <img alt="Imágenes de Bienvenidos: descubre bancos de fotos, ilustraciones, vectores  y vídeos de 33,978 | Adobe Stock" src="https://t3.ftcdn.net/jpg/00/77/98/10/360_F_77981059_4bySDu7qHXbK3ql6vKTdlRkP9hAToI2i.jpg" /></p>
+        <p style="text-align: center">Alumnos: Jorge Alberto Vasquez Bustamante ISNP056822</p>
+        <p style="text-align: center">Rodolfo Ernesto Flores Cruz ISNP099222</p>
+        <p style="text-align: center">Proyecto de tarea final de la Unidad 4</p>
     </div>
 
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Getting Started</h2>
-            <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
-        </div>
-    </div>
+
+
+   <div class="row" style="text-align: center">
+        <br />
+        <br />
+        <img alt="gracias, muchas gracias, burbuja, filacteria, pictograma, vector, !muchas  gracias!, en español Stock Vector | Adobe Stock" src="https://t3.ftcdn.net/jpg/02/44/95/70/360_F_244957033_DQwQZnY6BZrfnU4NiSSyjmHhmXVMO3mR.jpg" /></div>
+
+
 
 </asp:Content>

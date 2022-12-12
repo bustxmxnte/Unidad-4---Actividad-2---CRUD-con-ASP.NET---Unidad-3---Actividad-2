@@ -22,7 +22,7 @@
 
         testmsg = MsgBox("Está seguro que desea guardar registro", 1, "Registro Alumno")
         If testmsg = 1 Then
-            'alumno.ideAlumno = TxtId.Text
+            'materia.ideAlumno = TxtId.Text
             alumno.nomAlumno = txtNombre.Text
             alumno.apeAlumno = TxtApellido.Text
             alumno.mailAlumno = TxtCorreo.Text

@@ -1,4 +1,5 @@
 ﻿Public Class Alumno1
+
     Inherits System.Web.UI.Page
 
     'llamada de clase Alumno para usar sus métodos
@@ -99,5 +100,4 @@
         Response.Redirect("AgregarAlumno.aspx")
 
     End Sub
-
 End Class

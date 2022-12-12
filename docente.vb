@@ -9,7 +9,7 @@
     Private especialidadDocente As String
     Private facultadDocente As String
 
-    Private pagina As Page
+    Private pagina As docente
 
     'Metodos de la propiedad
     Public Property idDocente() As String
